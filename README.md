@@ -1,4 +1,4 @@
-## REUZSC
+## FlaxEVexBotZ
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/benisadewa/FlaxEVexBotZ
+> cd FlaxEVexBotZ
 > bash install.sh
 > node index.js
 ```
@@ -49,7 +49,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/FlaxEVex/FlaxEVexBotZ)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 085161307028 Daffaツ
